@@ -116,7 +116,7 @@
           <a class="btn" href="tel:+8801725354196" aria-label="Call phone">📞 Call</a>
           <a class="btn" href="https://linkedin.com/in/talha-ibne-anich-" target="_blank" rel="noopener" aria-label="Open LinkedIn">🔗 LinkedIn</a>
           <!-- Replace the href below with the public URL to your PDF resume when you publish -->
-          <a class="btn" href="/home/talha/Downloads/talhaa.pdf" download>⬇️ Download CV</a>
+          <a class="btn" href="/home/piki/Downloads/Talha cv.pdf" download>⬇️ Download CV</a>
         </div>
       </div>
       <div class="card avatar" aria-hidden="true">
